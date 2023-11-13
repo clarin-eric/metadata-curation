@@ -2,7 +2,7 @@
 name: Metadata issue
 about: General template for reporting a metadata issue
 title: Metadata issue in [collection] by [provider]
-labels: ''
+labels: ['metadata']
 assignees: ''
 
 ---
