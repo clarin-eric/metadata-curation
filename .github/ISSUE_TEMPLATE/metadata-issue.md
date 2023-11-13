@@ -16,4 +16,4 @@ A metadata issue has been identified by [name] on [date]:
 **Desciption of the issue**:
 
 
-** Suggested solution [optional]**:
+**Suggested solution [optional]**:
